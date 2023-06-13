@@ -1,17 +1,9 @@
-# Ebay Web3 Marketplace
-
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  <img alt="Version" src="https://img.shields.io/badge/Ebay-Marketplace-brightgreen" />
-</p>
+# Permit Web3 Marketplace
 
 ### About The Build
 
-Ebay Marketplace is a Web3 marketplace of the Metaverse which is powered by ThirdWeb. You can purchase and sell your own NFTs and the cool part is - you can create an auction of your NFTs. It even has Live Search Functionality in the Home Screen.
+Permit Marketplace is a Web3 marketplace of the Metaverse which is powered by ThirdWeb. You can purchase and sell your own NFTs and the cool part is - you can create an auction of your NFTs. It even has Live Search Functionality in the Home Screen.
 
-![Template Screenshot](Template.jpg?raw=true "Template Screenshot")
-![Listing Page Screenshot](Listing.jpg?raw=true "Listing Page Screenshot")
 
 ## Next.js + Tailwind CSS
 
@@ -46,13 +38,3 @@ NEXT_PUBLIC_MARKETPLACE_CONTRACT=key_goes_here
 NEXT_PUBLIC_COLLECTION_CONTRACT=key_goes_here
 ```
 
-## Author
-
-👤 **Divyam Agarwal**
-
-- Website: <https://divyamag.vercel.app/>
-- Github: [@Divyam2600](https://github.com/Divyam2600)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
